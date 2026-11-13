@@ -17,7 +17,7 @@ django_celery_results==2.6.0
 djangorestframework==3.18.3
 et_xmlfile==2.0.0
 idna==3.20
-kombu==5.6.2
+kombu==5.7.0
 mailjet-rest==1.9.1
 openpyxl==3.1.5
 packaging==26.3
