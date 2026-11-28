@@ -2,7 +2,7 @@ amqp==5.4.2
 asgiref==3.13.0
 billiard==4.3.2
 celery==5.7.0
-certifi==2026.10.23
+certifi==2026.11.20
 charset-normalizer==3.5.3
 click==8.5.0
 click-didyoumean==0.3.1
